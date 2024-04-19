@@ -12,7 +12,7 @@
 
 6. Scopes and user input, scanner
 
-[7. Loops](https://github.com/bmalenovska/java/blob/main/loops.java)
+7. [Loops](https://github.com/bmalenovska/java/blob/main/loops.java)
 
 8. Loops II
 
